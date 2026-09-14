@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1a1a1a;
+  --color-paragraf: #A8A8A8;
+}
+html {
+  font-size: 63;
+}
+.container {
+  width: 100w! important;
+  padding: 30px 150px;
+}
+a{
+  font-size: large;
+}
